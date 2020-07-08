@@ -1,3 +1,7 @@
+# [Redux Official Todo-App Example](https://redux.js.org/basics/example)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/542e910e-5da4-41a6-90ee-580900d19999/deploy-status)](https://app.netlify.com/sites/redux-todo-example/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
